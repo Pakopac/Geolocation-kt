@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Geolocation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_login">Sign In</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="action_register">REGISTER</string>
+    <string name="title_activity_geoloc">Geolocation</string>
+    <string name="title_activity_register">Register</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="please_sign_in_or_register">Please Sign In or register</string>
+    <string name="welcome_app">Welcome to Geolocation App !</string>
+</resources>
